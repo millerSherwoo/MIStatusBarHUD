@@ -5,22 +5,22 @@ A easy and lighting framework to show message on the status bar,一个易用轻�
 ```objc
 [MIStatusBarHUD showSuccess:@"success Message"];
 ```
- ![image](https://github.com/millerSherwoo/MIStatusBarHUD/blob/master/images/success_sd.png)
+![image](https://github.com/millerSherwoo/MIStatusBarHUD/blob/master/images/success_sd.png)
 ## 显示错误信息 - Show error message
 ```objc
 [MIStatusBarHUD showError:@"error Mesaage"];
 ```
-
+![image](https://github.com/millerSherwoo/MIStatusBarHUD/blob/master/images/error.png)
 ## 显示普通信息 - Show normal message
 ```objc
 [MIStatusBarHUD showMessage:@"normal Mesaage"];
 ```
-
+![image](https://github.com/millerSherwoo/MIStatusBarHUD/blob/master/images/normal.png)
 ## 显示正在加载信息 - Show loading message
 ```objc
 [MIStatusBarHUD showLoading:@"loading..."];
 ```
-
+![image](https://github.com/millerSherwoo/MIStatusBarHUD/blob/master/images/loading.png)
 ## 隐藏HUD - hide HUD
 ```objc
 [MIStatusBarHUD hide];
