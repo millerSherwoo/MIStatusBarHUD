@@ -5,7 +5,7 @@ A easy and lighting framework to show message on the status bar,一个易用轻�
 ```objc
 [MIStatusBarHUD showSuccess:@"success Message"];
 ```
- ![image](https://github.com/millerSherwoo/MIStatusBarHUD/images/success.png?raw=true)
+ ![image](https://github.com/millerSherwoo/MIStatusBarHUD/blob/master/images/success.png)
 ## 显示错误信息 - Show error message
 ```objc
 [MIStatusBarHUD showError:@"error Mesaage"];
